@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <!--android:elevation="@dimen/_4sdp"
+     app:cardCornerRadius="@dimen/_2sdp"-->
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:padding="@dimen/_8sdp"
+            android:text=" DETAILS" />
+
+        <!-- <View
+             android:layout_width="match_parent"
+             android:layout_height="@dimen/_1sdp"
+
+             android:background="@color/grey_500" />-->
+
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <TextView
+                android:id="@+id/tvPriceItemCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/roboto_regular"
+                android:textColor="@color/black"
+                tools:text="Price (2 items)" />
+
+            <TextView
+                android:id="@+id/tvPriceItemAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_indian_rupee_3"
+                android:fontFamily="@font/roboto_regular"
+                android:textColor="@color/black"
+                tools:text="924" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/roboto_regular"
+                android:text="Delivery"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tvDeliveryCharges"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_regular"
+                android:text="Free"
+                android:textColor="@color/green_800" />
+
+        </LinearLayout>
+
+        <!-- <View
+             android:layout_width="match_parent"
+             android:layout_height="@dimen/_1sdp"
+             android:layout_marginTop="@dimen/_8sdp"
+             android:background="@color/grey_500" />
+-->
+        <LinearLayout
+            android:visibility="gone"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/roboto_bold"
+                android:text="Amount Payable"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tvAmountPayable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_indian_rupee_3"
+                android:fontFamily="@font/roboto_bold"
+                android:textColor="@color/black"
+                tools:text="924" />
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

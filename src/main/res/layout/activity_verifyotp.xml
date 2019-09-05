@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="@dimen/_4sdp">
+
+    <TextView
+        style="@style/lableText"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:gravity="center"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/verify_otp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/et1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/et2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/et3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/et4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/et5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/et6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:background="@drawable/border_background"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="1"
+            android:padding="@dimen/_12sdp"
+            android:text="" />
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnVerifyOtp"
+        style="@style/buttonNew"
+        android:layout_marginTop="@dimen/_35sdp"
+        android:foreground="?selectableItemBackground"
+        android:text="Verify OTP"
+        android:textAllCaps="true" />
+
+
+</LinearLayout>

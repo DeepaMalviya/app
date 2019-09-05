@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- add the following item to your menu.xml -->
+
+    <!-- <item android:id="@+id/action_search"
+         android:title="Search"
+         android:icon="@drawable/ic_search_black_24dp"
+         app:showAsAction="ifRoom|collapseActionView"
+         app:actionViewClass="android.support.v7.widget.SearchView" />
+    -->
+
+    <item
+        android:id="@+id/action_menu_my_call"
+        android:icon="@drawable/ic_telephoneee"
+        android:title="My Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_menu_my_cart"
+        android:icon="@drawable/actionbar_cart_icon"
+        android:title="My Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_menu_my_noti"
+        android:icon="@drawable/ic_multiple_person"
+        android:title="Profile"
+        app:showAsAction="always" />
+</menu>

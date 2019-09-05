@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDC00</color>
+    <color name="colorPrimaryDark">#CCA100</color>
+    <color name="colorAccent">@color/black</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#88000000</color>
+
+
+    <color name="dot_inactive">#DCDCDC</color>
+    <color name="bac">#6DDCDCDC</color>
+    <color name="bac1">#32DCDCDC</color>
+    <color name="success">#07a934</color>
+    <color name="fail">#ea3e0f</color>
+    <color name="redcolor">#d22532</color>
+    <color name="info">#434241</color>
+    <color name="warning">#ff9900</color>
+
+
+    <color name="textColorPrimary">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="glide_slider_background_color">@android:color/transparent</color>
+    <color name="glide_slider_indicator_color">@color/black</color>
+    <color name="glide_slider_description_color">@android:color/transparent</color>
+    <color name="glide_slider_description_background_color">@android:color/transparent</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="chef">#777777</color>
+    <color name="timestamp">#777777</color>
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#0C0C0C</color>
+    <color name="dot_dark_screen2">#080908</color>
+    <color name="dot_dark_screen3">#080908</color>
+    <color name="dot_dark_screen4">#0A0A0A</color>
+    <color name="dot_dark_screen5">#070707</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#F7F8F8</color>
+    <color name="dot_light_screen2">#F8FAFA</color>
+    <color name="dot_light_screen3">#FAFCFB</color>
+    <color name="dot_light_screen4">#F8FCFB</color>
+    <color name="dot_light_screen5">#F7FAF9</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+
+    <color name="colorOrange">#F68159</color>
+    <color name="colorLightGray">#a6abae</color>
+    <color name="colorGray">#495C67</color>
+
+    <color name="colorBackroundWhite">#f0f2ea</color>
+</resources>

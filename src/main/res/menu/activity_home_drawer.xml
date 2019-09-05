@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_menu_cart"
+            android:title="My Bucket" />
+        <item
+            android:id="@+id/nav_my_order"
+            android:icon="@drawable/ic_menu_tracking"
+            android:title="My Order" />
+        <item
+            android:id="@+id/nav_custom_design"
+            android:icon="@drawable/ic_menu_custom_desgin"
+            android:title="My Custom Designs"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_measurement"
+            android:icon="@drawable/ic_menu_measurement_tape"
+            android:title="Measurements"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/ic_banking"
+            android:title="Offers" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/nav_facebook_chat"
+            android:icon="@drawable/ic_menu_facebook_chat"
+            android:title="Facebook Chat"
+            android:visible="false" />
+
+
+        <item
+            android:id="@+id/nav_share_app"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share App" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_menu_help"
+            android:title="Help center" />
+
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/ic_menu_pay"
+            android:title="Payment" />
+
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/privacy"
+            android:title=" Policies " />
+
+    </group>
+
+    <item
+        android:title="Earn Extra Money!"
+        android:visible="false">
+        <menu>
+            <item
+                android:id="@+id/nav_tailor_registraion"
+                android:icon="@drawable/ic_logo_1"
+                android:title="Register as a Masterji Tailor" />
+
+        </menu>
+    </item>
+
+</menu>

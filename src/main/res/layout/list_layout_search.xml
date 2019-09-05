@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/country_photoo"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_150sdp"
+        android:contentDescription="@string/action_settings"
+        android:scaleType="fitXY"
+        android:visibility="gone"
+        card_view:srcCompat="@drawable/ic_logo_1" />
+
+    <TextView
+        android:padding="@dimen/_5sdp"
+        android:layout_margin="@dimen/_2sdp"
+        android:id="@+id/country_namee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/country_photoo"
+        android:background="@drawable/button_white"
+        android:gravity="center"
+        android:text="text"
+        android:textColor="@color/black"
+        />
+
+</RelativeLayout>
+

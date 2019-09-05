@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/_12sdp">
+
+            <com.glide.slider.library.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                android:layout_height="304dp"
+                android:elevation="@dimen/_4sdp" />
+
+
+            <TextView
+                android:id="@+id/tvTitle"
+                style="@style/lableText"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:gravity="left"
+                android:inputType="textCapSentences"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/tvPrice"
+                style="@style/lableText"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:drawableLeft="@drawable/ic_indian_rupee_3"
+                android:gravity="left"
+                android:inputType="textCapSentences"
+                android:text=""
+                android:visibility="gone" />
+
+            <TextView
+
+                android:id="@+id/tvDescription"
+                style="@style/lableText"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:gravity="left"
+                android:text=""
+                android:textSize="@dimen/_10sdp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/_2sdp">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvSugget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:divider="@null"
+            android:orientation="horizontal"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+            app:reverseLayout="true" />
+
+        <Button
+            android:id="@+id/btnAddToCart"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_36sdp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:foreground="?selectableItemBackground"
+            android:text="Continue"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btnBuyNow"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_36sdp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:foreground="?selectableItemBackground"
+            android:text="Choose Design"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</LinearLayout>

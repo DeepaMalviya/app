@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_8sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/lableText"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:text="Hello" />
+
+        <TextView
+            android:id="@+id/tvUserName"
+            style="@style/lableText"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="@dimen/_4sdp"
+            android:text="Masterji User" />
+
+    </LinearLayout>
+
+
+    <TextView
+        style="@style/lableText"
+        android:gravity="center"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/verify_phone" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp">
+
+        <EditText
+            style="@style/editTextNew"
+            android:layout_width="wrap_content"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:text="+91"
+            android:textColorHint="@color/black" />
+
+        <EditText
+            android:id="@+id/etMobileNumber"
+            style="@style/editTextNew"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:hint="Mobile Number"
+            android:inputType="number"
+            android:maxLength="10"
+            android:text=""
+            android:textColorHint="@color/black" />
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnVerifyMobile"
+        style="@style/buttonNew"
+        android:layout_marginTop="@dimen/_35sdp"
+        android:foreground="?selectableItemBackground"
+        android:text="Verify Mobile Number"
+        android:textAllCaps="true" />
+
+
+</LinearLayout>

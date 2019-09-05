@@ -1,0 +1,4 @@
+# Referenced at /home/honchi/Desktop/Masterji App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/honchi/Desktop/Masterji App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class online.masterji.honchiSolution.activity.others.AppController { <init>(); }

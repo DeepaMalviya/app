@@ -1,0 +1,1275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+MERGED from [com.android.support:multidex:1.0.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/a948fe7e8ee1243acf7426339c73c41d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93932d08c8bab78432126136cbb8fdde/AndroidManifest.xml:17:1-24:12
+MERGED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:2:1-14:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/d7e39de634e5944ebde704acc05c1d83/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:facebook-login:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4a71fa1fd7254f8d1c8d91179f6a8939/AndroidManifest.xml:21:1-31:12
+MERGED from [com.algolia:algoliasearch-android:3.27.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1dacb4d0b20934191b0996e2859f1d15/AndroidManifest.xml:24:1-35:12
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/de390ff3395fe8cc9188bb970e49dfc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/371f1121e7747e84abf097e06461024f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a79903fe443f9fcb480244735232e495/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8657a87d7db597d574bb40d02fd71304/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9bfc84d89c8d78d1ca4a89d5b4849e07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2168696112915193fc956deb4df37d97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ea43c19dd4bcc6ed503e2f4816d2eb7f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/b66d74a0b9016b909481a46aeb1c15fe/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/209cee0add9fd66ff6d919cb5d69bf57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/609657416e601a3c1e4ec7a0cf804f67/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b4ab46bddf728086ca283205278c8f99/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/77c567a02b5def3c1822444da4576915/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/honchi/.gradle/caches/transforms-2/files-2.1/c91083aedb916f245faf42903e64c693/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a7e404e7c5c2552d3e3076ed3a299b8c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/27d4a8257b837704e9f072ecc7536a8c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/712d0c6145a67dabde4782c1b891fb50/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e245d1a326bfdc93d73df2ea9374ab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1d9275d5351385dac6557add73cf9c9d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3d5f1bb39ca0175d54f9e2b912bb41f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/58d64fbb9826ac298f56b334658195c6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/656dac4753336fe6defdeb1b297f1fd1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ed3ffa8064a308df385eb88e2d2bf688/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/120ce9d773bd9ec79d7ed2ac34126790/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f2ccc186c8c5ad6a2b316a2823cfb9f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ec001583e61e83c776a12745b4c4b6ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/49f3d61e9813dc086db78c9b0fbb261d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/honchi/.gradle/caches/transforms-2/files-2.1/0af0e56f4ce2e1984fc2c90d0e10de67/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:2:1-26:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /home/honchi/.gradle/caches/transforms-2/files-2.1/4c6b8c6bdac6e0e7d382a0210d90b8c6/AndroidManifest.xml:2:1-10:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4ff91696bcb1b19d4ad1951fbe849b3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:2:1-14:12
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.volley:volley:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/986b54c4ce1d8a24c653c88664ab9860/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core:1.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a11a9b6ccc8128325a09c85d9186a156/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/aa510ae4dd49a4e8d016072ebe4bdcd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fde19522076bd061a815c2995a02472/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:21:1-61:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/cda7db8238c6af0aa988a05fe6254a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/10e20fad46a16fa31bc31758518f5e13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3e1bcca8d8033d1cc19bc7f1601c817b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f365c86eb88a3d44b20eb1ce708c0140/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/41f0f986ab6b04d8b41cd2e785d48f01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6d677cc5bddbc3891dd1a2a5dcff413e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a0ac2ee0c42f07c19302b5a21682a26c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8bd4ea3df2a2b83f9235dce570ded2cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3f299da076bc4a11efd8802aa23936f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/561aff87d58c68818c0e549ca167e632/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/honchi/.gradle/caches/transforms-2/files-2.1/be6ea970fdc66d2f8d07fb5cae66f03b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2595275bba0ce31e3dda4c561cb29bba/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2e9e0e3974dfc602fdf9883dde6324f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93dd395af5dfc274dd2c7e44184c12ad/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bd761135aaf6ac56f5f9c02ac0778815/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/942a4ade270e1dd076a5aeb1d5a6c503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f44fcd78bc3f6b8ee55fc7a446a0bb99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bb5bff6ada58b08bd650b3c9b1f1c21f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/685afbfca2f6abe46138a3569639144c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/2530117f490214aaba19a907a7c52805/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/45c049042afe06f602c2b905a87ca5b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/609ee7e11542a3c492e25690c051674f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/a5009f9443e412d9a870519c7fedc7f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/05c2fbe58cd521dc1da9a2dc9387eabb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/e034febd573e6b00a55250d4e406d90a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fefb0b99d69c5e77048c830d1357659/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.16.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/df72a145cb2bab7e0c1bd3097c7839f3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:22:1-33:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+	package
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:1-303:12
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.INTERNET
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:11:5-67
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:11:5-67
+MERGED from [com.algolia:algoliasearch-android:3.27.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1dacb4d0b20934191b0996e2859f1d15/AndroidManifest.xml:33:5-67
+MERGED from [com.algolia:algoliasearch-android:3.27.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1dacb4d0b20934191b0996e2859f1d15/AndroidManifest.xml:33:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:16:5-67
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:14:5-81
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:12:5-81
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:15:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:16:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/df72a145cb2bab7e0c1bd3097c7839f3/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/df72a145cb2bab7e0c1bd3097c7839f3/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:18:5-301:19
+MERGED from [com.android.support:design:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93932d08c8bab78432126136cbb8fdde/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93932d08c8bab78432126136cbb8fdde/AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:facebook-login:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4a71fa1fd7254f8d1c8d91179f6a8939/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4a71fa1fd7254f8d1c8d91179f6a8939/AndroidManifest.xml:28:5-29:19
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:13:5-17:19
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/371f1121e7747e84abf097e06461024f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/371f1121e7747e84abf097e06461024f/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8657a87d7db597d574bb40d02fd71304/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8657a87d7db597d574bb40d02fd71304/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ea43c19dd4bcc6ed503e2f4816d2eb7f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ea43c19dd4bcc6ed503e2f4816d2eb7f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/609657416e601a3c1e4ec7a0cf804f67/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/609657416e601a3c1e4ec7a0cf804f67/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/honchi/.gradle/caches/transforms-2/files-2.1/c91083aedb916f245faf42903e64c693/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/honchi/.gradle/caches/transforms-2/files-2.1/c91083aedb916f245faf42903e64c693/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a7e404e7c5c2552d3e3076ed3a299b8c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a7e404e7c5c2552d3e3076ed3a299b8c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/27d4a8257b837704e9f072ecc7536a8c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/27d4a8257b837704e9f072ecc7536a8c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e245d1a326bfdc93d73df2ea9374ab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e245d1a326bfdc93d73df2ea9374ab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1d9275d5351385dac6557add73cf9c9d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1d9275d5351385dac6557add73cf9c9d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3d5f1bb39ca0175d54f9e2b912bb41f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3d5f1bb39ca0175d54f9e2b912bb41f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/58d64fbb9826ac298f56b334658195c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/58d64fbb9826ac298f56b334658195c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/656dac4753336fe6defdeb1b297f1fd1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/656dac4753336fe6defdeb1b297f1fd1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ed3ffa8064a308df385eb88e2d2bf688/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ed3ffa8064a308df385eb88e2d2bf688/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/120ce9d773bd9ec79d7ed2ac34126790/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/120ce9d773bd9ec79d7ed2ac34126790/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:22:5-26:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:18:5-24:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4ff91696bcb1b19d4ad1951fbe849b3b/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4ff91696bcb1b19d4ad1951fbe849b3b/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:7:5-12:19
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.volley:volley:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/986b54c4ce1d8a24c653c88664ab9860/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/986b54c4ce1d8a24c653c88664ab9860/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:28:5-59:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2595275bba0ce31e3dda4c561cb29bba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2595275bba0ce31e3dda4c561cb29bba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93dd395af5dfc274dd2c7e44184c12ad/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93dd395af5dfc274dd2c7e44184c12ad/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:31:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:24:9-58
+	android:largeHeap
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:23:9-33
+	android:icon
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:21:9-47
+	android:allowBackup
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:19:9-54
+activity#online.masterji.honchiSolution.activity.SendActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:27:9-29:54
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:28:13-50
+activity#online.masterji.honchiSolution.activity.BookingDetailsActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:30:19-66
+activity#online.masterji.honchiSolution.activity.Recycler.CategActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:31:9-69
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:31:19-66
+activity#online.masterji.honchiSolution.activity.Recycler.TabDetailsActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:32:9-37:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:34:13-29
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:37:13-60
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:36:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:33:13-65
+activity#online.masterji.honchiSolution.activity.FaqAnswerActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:38:19-61
+activity#online.masterji.honchiSolution.activity.others.Main3Activity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:39:9-67
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:39:19-64
+activity#online.masterji.honchiSolution.activity.MeasurementActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:40:9-66
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:40:19-63
+activity#online.masterji.honchiSolution.activity.BillingActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:41:9-62
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:41:19-59
+activity#online.masterji.honchiSolution.activity.TrackOrderActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:42:9-46:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:44:13-40
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:43:13-56
+activity#online.masterji.honchiSolution.activity.OrderDetailsActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:47:9-51:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:49:13-42
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:51:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:48:13-58
+activity#online.masterji.honchiSolution.activity.SearchActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:52:9-55:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:54:13-49
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:53:13-52
+activity#online.masterji.honchiSolution.activity.Recycler.Main2Activity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:56:9-60:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:58:13-57
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:57:13-60
+activity#online.masterji.honchiSolution.activity.BookActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:61:9-65:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:63:13-51
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:65:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:62:13-50
+activity#online.masterji.honchiSolution.activity.BookTailorActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:71:9-75:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:73:13-51
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:75:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:72:13-56
+activity#online.masterji.honchiSolution.activity.Recycler.SubSubActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:77:9-70
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:77:19-67
+activity#online.masterji.honchiSolution.activity.Recycler.SubActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:78:9-67
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:78:19-64
+activity#online.masterji.honchiSolution.activity.OffersActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:79:9-83:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:81:13-35
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:83:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:80:13-52
+activity#online.masterji.honchiSolution.activity.EnquiryActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:84:9-89:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:86:13-36
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:89:13-60
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:88:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:85:13-53
+activity#online.masterji.honchiSolution.activity.WelcomeActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:95:9-103:20
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:96:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:98:13-102:29
+action#android.intent.action.MAIN
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:99:17-69
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:99:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:101:17-77
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:101:27-74
+activity#com.facebook.CustomTabActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:104:9-115:20
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:105:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:107:13-114:29
+action#android.intent.action.VIEW
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:108:17-69
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:108:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:110:17-76
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:110:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:111:17-78
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:111:27-75
+data
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:113:17-75
+	android:scheme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:113:23-72
+activity#online.masterji.honchiSolution.activity.LoginActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:116:9-121:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:119:13-49
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:121:13-60
+	android:configChanges
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:118:13-96
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:120:13-55
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:117:13-51
+activity#online.masterji.honchiSolution.activity.PhoneNumberVerificationActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:122:9-126:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:124:13-55
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:126:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:123:13-69
+activity#online.masterji.honchiSolution.activity.VerifyOTPActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:127:9-131:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:129:13-45
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:131:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:128:13-55
+activity#online.masterji.honchiSolution.activity.MainActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:132:9-136:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:134:13-45
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:136:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:133:13-50
+activity#online.masterji.honchiSolution.activity.MapActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:142:9-146:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:144:13-45
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:146:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:143:13-49
+activity#online.masterji.honchiSolution.activity.CategoryActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:147:9-151:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:149:13-37
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:151:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:148:13-54
+activity#online.masterji.honchiSolution.activity.ProductListActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:152:9-156:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:154:13-37
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:156:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:153:13-57
+activity#online.masterji.honchiSolution.activity.ProductActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:157:9-161:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:159:13-29
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:161:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:158:13-53
+activity#online.masterji.honchiSolution.activity.CartActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:162:9-166:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:165:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:164:13-38
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:166:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:163:13-50
+activity#online.masterji.honchiSolution.activity.PlaceOrderActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:167:9-171:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:169:13-40
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:171:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:168:13-56
+activity#online.masterji.honchiSolution.activity.MyOrderActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:172:9-176:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:174:13-37
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:176:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:173:13-53
+activity#online.masterji.honchiSolution.activity.ProfileActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:177:9-181:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:180:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:179:13-36
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:181:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:178:13-53
+activity#online.masterji.honchiSolution.activity.UpdateFieldActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:182:9-186:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:185:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:184:13-36
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:186:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:183:13-57
+activity#online.masterji.honchiSolution.activity.AboutUsActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:187:9-191:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:189:13-37
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:191:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:188:13-53
+activity#online.masterji.honchiSolution.activity.CatelogActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:192:9-195:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:194:13-49
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:195:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:193:13-53
+activity#online.masterji.honchiSolution.activity.CategoryDetailsActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:196:9-199:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:198:13-49
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:199:13-60
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:197:13-61
+activity#online.masterji.honchiSolution.activity.SliderActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:201:9-205:63
+	android:screenOrientation
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:203:13-49
+	android:windowSoftInputMode
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:205:13-60
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:204:13-55
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:202:13-52
+activity#online.masterji.honchiSolution.chatting.ChatActivity
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:206:9-208:54
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:208:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:207:13-50
+activity#online.masterji.honchiSolution.activity.ChatActivityNew
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:209:9-62
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:209:19-59
+activity#online.masterji.honchiSolution.activity.ChatActivityMain
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:210:9-212:54
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:212:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:211:13-54
+activity#online.masterji.honchiSolution.activity.ChatActivityMainChat
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:213:9-215:54
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:215:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:214:13-58
+activity#online.masterji.honchiSolution.activity.SendActivity1
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:216:9-218:54
+	android:theme
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:218:13-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:217:13-51
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:220:9-222:55
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:222:13-52
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:221:13-58
+service#online.masterji.honchiSolution.service.FetchAddressIntentService
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:224:9-226:40
+	android:exported
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:226:13-37
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:225:13-62
+service#online.masterji.honchiSolution.activity.others.AppLocationService
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:244:9-71
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:244:18-68
+service#online.masterji.honchiSolution.Notification.MyFirebaseMessaging
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:246:9-253:19
+	android:enabled
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:248:13-35
+	android:exported
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:249:13-36
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:247:13-61
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:250:13-252:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:251:17-78
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:251:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:255:9-257:58
+	android:resource
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:257:13-55
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:256:13-83
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:262:9-264:58
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:264:13-55
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:263:13-58
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:265:9-267:53
+	android:resource
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:267:13-50
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:266:13-84
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:268:9-270:37
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:270:13-34
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:269:13-64
+meta-data#firebase_analytics_collection_enabled
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:271:9-273:37
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:273:13-34
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:272:13-65
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:274:9-276:71
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:276:13-68
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:275:13-89
+meta-data#com.razorpay.ApiKey
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:285:9-287:43
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:287:13-40
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:286:13-47
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:288:9-290:37
+	android:value
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:290:13-34
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:289:13-67
+provider#android.support.v4.content.FileProvider
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:292:9-300:20
+	android:grantUriPermissions
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:296:13-47
+	android:authorities
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:294:13-78
+	android:exported
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:295:13-37
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:293:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:297:13-299:54
+	android:resource
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:299:17-51
+	android:name
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml:298:17-67
+uses-sdk
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/a948fe7e8ee1243acf7426339c73c41d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/a948fe7e8ee1243acf7426339c73c41d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93932d08c8bab78432126136cbb8fdde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93932d08c8bab78432126136cbb8fdde/AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.firdausmaulan:GlideSlider:1.4.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e17a80b6f46c1b9d6795d86c4badb5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/d7e39de634e5944ebde704acc05c1d83/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/d7e39de634e5944ebde704acc05c1d83/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-login:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4a71fa1fd7254f8d1c8d91179f6a8939/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4a71fa1fd7254f8d1c8d91179f6a8939/AndroidManifest.xml:24:5-26:41
+MERGED from [com.algolia:algoliasearch-android:3.27.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1dacb4d0b20934191b0996e2859f1d15/AndroidManifest.xml:29:5-31:41
+MERGED from [com.algolia:algoliasearch-android:3.27.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1dacb4d0b20934191b0996e2859f1d15/AndroidManifest.xml:29:5-31:41
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/de390ff3395fe8cc9188bb970e49dfc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/de390ff3395fe8cc9188bb970e49dfc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/371f1121e7747e84abf097e06461024f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/honchi/.gradle/caches/transforms-2/files-2.1/371f1121e7747e84abf097e06461024f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a79903fe443f9fcb480244735232e495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a79903fe443f9fcb480244735232e495/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8657a87d7db597d574bb40d02fd71304/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8657a87d7db597d574bb40d02fd71304/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9bfc84d89c8d78d1ca4a89d5b4849e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9bfc84d89c8d78d1ca4a89d5b4849e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2168696112915193fc956deb4df37d97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2168696112915193fc956deb4df37d97/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ea43c19dd4bcc6ed503e2f4816d2eb7f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ea43c19dd4bcc6ed503e2f4816d2eb7f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/b66d74a0b9016b909481a46aeb1c15fe/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/b66d74a0b9016b909481a46aeb1c15fe/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/209cee0add9fd66ff6d919cb5d69bf57/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/209cee0add9fd66ff6d919cb5d69bf57/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/609657416e601a3c1e4ec7a0cf804f67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/609657416e601a3c1e4ec7a0cf804f67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b4ab46bddf728086ca283205278c8f99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b4ab46bddf728086ca283205278c8f99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/77c567a02b5def3c1822444da4576915/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/77c567a02b5def3c1822444da4576915/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/honchi/.gradle/caches/transforms-2/files-2.1/c91083aedb916f245faf42903e64c693/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/honchi/.gradle/caches/transforms-2/files-2.1/c91083aedb916f245faf42903e64c693/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a7e404e7c5c2552d3e3076ed3a299b8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a7e404e7c5c2552d3e3076ed3a299b8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/27d4a8257b837704e9f072ecc7536a8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/27d4a8257b837704e9f072ecc7536a8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/712d0c6145a67dabde4782c1b891fb50/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/712d0c6145a67dabde4782c1b891fb50/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e245d1a326bfdc93d73df2ea9374ab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/56e245d1a326bfdc93d73df2ea9374ab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1d9275d5351385dac6557add73cf9c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/1d9275d5351385dac6557add73cf9c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3d5f1bb39ca0175d54f9e2b912bb41f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3d5f1bb39ca0175d54f9e2b912bb41f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/58d64fbb9826ac298f56b334658195c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/58d64fbb9826ac298f56b334658195c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/656dac4753336fe6defdeb1b297f1fd1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/656dac4753336fe6defdeb1b297f1fd1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ed3ffa8064a308df385eb88e2d2bf688/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ed3ffa8064a308df385eb88e2d2bf688/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/120ce9d773bd9ec79d7ed2ac34126790/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/120ce9d773bd9ec79d7ed2ac34126790/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f2ccc186c8c5ad6a2b316a2823cfb9f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f2ccc186c8c5ad6a2b316a2823cfb9f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ec001583e61e83c776a12745b4c4b6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/ec001583e61e83c776a12745b4c4b6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/49f3d61e9813dc086db78c9b0fbb261d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/49f3d61e9813dc086db78c9b0fbb261d/AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/honchi/.gradle/caches/transforms-2/files-2.1/0af0e56f4ce2e1984fc2c90d0e10de67/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/honchi/.gradle/caches/transforms-2/files-2.1/0af0e56f4ce2e1984fc2c90d0e10de67/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:12:5-14:63
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /home/honchi/.gradle/caches/transforms-2/files-2.1/4c6b8c6bdac6e0e7d382a0210d90b8c6/AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /home/honchi/.gradle/caches/transforms-2/files-2.1/4c6b8c6bdac6e0e7d382a0210d90b8c6/AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4ff91696bcb1b19d4ad1951fbe849b3b/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/4ff91696bcb1b19d4ad1951fbe849b3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:5:5-44
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/986b54c4ce1d8a24c653c88664ab9860/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/986b54c4ce1d8a24c653c88664ab9860/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.play:core:1.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a11a9b6ccc8128325a09c85d9186a156/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a11a9b6ccc8128325a09c85d9186a156/AndroidManifest.xml:4:3-70
+MERGED from [com.android.support:support-fragment:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/aa510ae4dd49a4e8d016072ebe4bdcd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/aa510ae4dd49a4e8d016072ebe4bdcd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fde19522076bd061a815c2995a02472/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fde19522076bd061a815c2995a02472/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/cda7db8238c6af0aa988a05fe6254a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/cda7db8238c6af0aa988a05fe6254a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/10e20fad46a16fa31bc31758518f5e13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/10e20fad46a16fa31bc31758518f5e13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3e1bcca8d8033d1cc19bc7f1601c817b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3e1bcca8d8033d1cc19bc7f1601c817b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f365c86eb88a3d44b20eb1ce708c0140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f365c86eb88a3d44b20eb1ce708c0140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/41f0f986ab6b04d8b41cd2e785d48f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/41f0f986ab6b04d8b41cd2e785d48f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6d677cc5bddbc3891dd1a2a5dcff413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6d677cc5bddbc3891dd1a2a5dcff413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a0ac2ee0c42f07c19302b5a21682a26c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/a0ac2ee0c42f07c19302b5a21682a26c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8bd4ea3df2a2b83f9235dce570ded2cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/8bd4ea3df2a2b83f9235dce570ded2cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3f299da076bc4a11efd8802aa23936f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3f299da076bc4a11efd8802aa23936f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/561aff87d58c68818c0e549ca167e632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/561aff87d58c68818c0e549ca167e632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/honchi/.gradle/caches/transforms-2/files-2.1/be6ea970fdc66d2f8d07fb5cae66f03b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/honchi/.gradle/caches/transforms-2/files-2.1/be6ea970fdc66d2f8d07fb5cae66f03b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/7f1cd87bafdebcd09a5f832504bdb65d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2595275bba0ce31e3dda4c561cb29bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2595275bba0ce31e3dda4c561cb29bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2e9e0e3974dfc602fdf9883dde6324f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2e9e0e3974dfc602fdf9883dde6324f4/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93dd395af5dfc274dd2c7e44184c12ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/93dd395af5dfc274dd2c7e44184c12ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bd761135aaf6ac56f5f9c02ac0778815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bd761135aaf6ac56f5f9c02ac0778815/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/942a4ade270e1dd076a5aeb1d5a6c503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/942a4ade270e1dd076a5aeb1d5a6c503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f44fcd78bc3f6b8ee55fc7a446a0bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/f44fcd78bc3f6b8ee55fc7a446a0bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bb5bff6ada58b08bd650b3c9b1f1c21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/bb5bff6ada58b08bd650b3c9b1f1c21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/685afbfca2f6abe46138a3569639144c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/685afbfca2f6abe46138a3569639144c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/2530117f490214aaba19a907a7c52805/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/2530117f490214aaba19a907a7c52805/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/45c049042afe06f602c2b905a87ca5b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/45c049042afe06f602c2b905a87ca5b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/609ee7e11542a3c492e25690c051674f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/609ee7e11542a3c492e25690c051674f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/a5009f9443e412d9a870519c7fedc7f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/a5009f9443e412d9a870519c7fedc7f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/05c2fbe58cd521dc1da9a2dc9387eabb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/05c2fbe58cd521dc1da9a2dc9387eabb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/e034febd573e6b00a55250d4e406d90a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/e034febd573e6b00a55250d4e406d90a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fefb0b99d69c5e77048c830d1357659/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/9fefb0b99d69c5e77048c830d1357659/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/df72a145cb2bab7e0c1bd3097c7839f3/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/df72a145cb2bab7e0c1bd3097c7839f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2f5262e04448ba0ca59926898d3d4d90/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/honchi/.gradle/caches/transforms-2/files-2.1/7d812ce382725c12a9fdb8ab6bee1a05/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/honchi/.gradle/caches/transforms-2/files-2.1/a2f1b48881d99b84bce02e787b7a1012/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/honchi/.gradle/caches/transforms-2/files-2.1/fd567e2abb6ab2a738696576f08d322e/AndroidManifest.xml:27:5-43
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:14:9-60
+	android:targetSdkVersion
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		ADDED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/honchi/Desktop/Masterji App/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:2.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/114a20b04c881641ef80db66ba78dee7/AndroidManifest.xml:13:13-86
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/68b3a10f71b05791070a78bc72ee2859/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/f3019c2f08d580074c9e3667f7c0ee13/AndroidManifest.xml:15:13-58
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/3162b5a0c0e3e1a3c9aa36d9c0c9589f/AndroidManifest.xml:33:19-68
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0111d1f722e9b4fe83fc3a1df8380dad/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/ba182fe5c2008110c636e3a11bd4ef23/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b1fba69c7acd914822ce50a93a6b7e77/AndroidManifest.xml:19:17-111
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/e8e28287a7ccf74947c62b8367d3e945/AndroidManifest.xml:34:13-50
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b0902ec1fe7725551e4d82168f58a6a3/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/6a57b59174c547ee9383914b6aae73d0/AndroidManifest.xml:32:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/dad8643f837b82ad9b369526027e03b4/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/78ab183bdf3984f5878bebbc04d86338/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/52aae3af2cc4873b0ec876f67ac3423e/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/945b9afd2b7136a7d6490ec71e1800f0/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/0f1b1746bef811a9406e6431c2ac8204/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b8766b13e0c703deb6d1ddbaa37c906c/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/2b04383dc4d94651eb70adf676bdebf9/AndroidManifest.xml:49:13-87
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:19:9-23:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:21:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/honchi/.gradle/caches/transforms-2/files-2.1/c597dbf7e5567c5759b41e57f6b8138f/AndroidManifest.xml:20:13-75
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/honchi/.gradle/caches/transforms-2/files-2.1/498b6daa196df467922304e86e306750/AndroidManifest.xml:9:13-64
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:14:25-62
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:19:13-57
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.4] /home/honchi/.gradle/caches/transforms-2/files-2.1/d60c15bfb4bb3d6a5032939279b13c2d/AndroidManifest.xml:22:13-28:29
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.0] /home/honchi/.gradle/caches/transforms-2/files-2.1/b97b6c6ef4618b880cc49d40cfb07e05/AndroidManifest.xml:52:13-65

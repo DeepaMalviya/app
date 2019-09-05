@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="56dp"
+        android:text="@string/app_name"
+        android:background="@color/white"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        app:itemBackground="@color/colorPrimary"
+        app:itemIconTint="@color/white"
+        app:labelVisibilityMode="unlabeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/bottom_navigation_main" />
+
+</RelativeLayout><!--
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.1">
+
+        <ImageView
+            android:id="@+id/imageBack"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/topp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_weight=".8"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:elevation="4dp"
+                card_view:cardCornerRadius="4dp"
+                card_view:cardElevation="@dimen/_5sdp">
+
+                <EditText
+
+                    android:id="@+id/ETsearch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:drawableLeft="@drawable/ic_search_black_24dp"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:hint="   Search a item"
+                    android:padding="8dp"
+                    android:textSize="14sp" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="@dimen/_50sdp"
+
+                android:layout_height="@dimen/_1sdp"
+                android:layout_gravity="center"
+                android:background="@color/chef" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:text="OUR POPULAR PRODUCTS"
+                android:textAlignment="center"
+                android:textColor="@color/chef"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="@dimen/_50sdp"
+
+                android:layout_height="@dimen/_1sdp"
+                android:layout_gravity="center"
+                android:background="@color/chef" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_marginRight="@dimen/_5sdp"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/layoutMale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:clickable="true"
+                    android:elevation="4dp"
+                    android:focusable="true"
+                    card_view:cardCornerRadius="8dp"
+                    card_view:cardElevation="@dimen/_5sdp"
+                    card_view:cardUseCompatPadding="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/country_photo1"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_90sdp"
+                            android:adjustViewBounds="true"
+                            android:src="@drawable/men_neww" />
+
+                        <TextView
+                            android:id="@+id/country_name1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/country_photo1"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center_horizontal"
+                            android:padding="5dp"
+                            android:text="@string/male_design"
+                            android:textColor="@color/black"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/layoutFemle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:clickable="true"
+                    android:elevation="4dp"
+                    android:focusable="true"
+                    card_view:cardCornerRadius="8dp"
+                    card_view:cardElevation="@dimen/_5sdp"
+                    card_view:cardUseCompatPadding="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/country_photo2"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_90sdp"
+                            android:adjustViewBounds="true"
+                            android:src="@drawable/ic_women" />
+
+                        <TextView
+                            android:id="@+id/country_name2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/country_photo2"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center_horizontal"
+                            android:padding="5dp"
+                            android:text="@string/female_design"
+                            android:textColor="@color/black"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/layoutCatalog"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:clickable="true"
+                    android:elevation="4dp"
+                    android:focusable="true"
+                    card_view:cardCornerRadius="8dp"
+                    card_view:cardElevation="@dimen/_5sdp"
+                    card_view:cardUseCompatPadding="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/country_photo3"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_90sdp"
+                            android:contentDescription="@string/action_settings"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/cataloggg" />
+
+                        <TextView
+                            android:id="@+id/country_name3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/country_photo3"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center_horizontal"
+                            android:padding="5dp"
+                            android:text="@string/design_catalogue"
+                            android:textColor="@color/black"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/layoutEnquiry"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:clickable="true"
+                    android:elevation="4dp"
+                    android:focusable="true"
+                    card_view:cardCornerRadius="8dp"
+                    card_view:cardElevation="@dimen/_5sdp"
+                    card_view:cardUseCompatPadding="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/country_photo4"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_90sdp"
+                            android:contentDescription="@string/action_settings"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/booking_a_tailor" />
+
+                        <TextView
+                            android:id="@+id/country_name4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/country_photo4"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center_horizontal"
+                            android:padding="5dp"
+                            android:text="@string/book_a_tailor"
+                            android:textColor="@color/black"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:layout_weight="1.1"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageOfferss"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/bottomm" />
+
+
+    </LinearLayout>
+-->
+
+    <!--  <android.support.design.widget.BottomNavigationView
+          android:id="@+id/bottom_navigation"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentBottom="true"
+          app:itemBackground="@color/colorPrimary"
+          app:itemIconTint="@color/white"
+          app:itemTextColor="@color/white"
+
+          app:menu="@menu/bottom_navigation_main" />--><!-- <LinearLayout
+         android:weightSum="4"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal">
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+         </LinearLayout>
+     </LinearLayout>-->
+
+
+    <!-- <android.support.design.widget.BottomNavigationView
+         android:id="@+id/bottom_navigation"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+
+         android:layout_below="@+id/layoutt"
+         android:layout_alignParentBottom="true"
+         app:itemBackground="@color/colorPrimary"
+         app:itemIconTint="@color/white"
+         app:itemTextColor="@color/white"
+         app:menu="@menu/bottom_navigation_main" />-->

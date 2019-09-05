@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Masterji</string>
+
+
+    <!--server response-->
+    <string name="token_expired">Session expired. Please re-login again.</string>
+
+    <!-- Login-->
+    <string name="login_name_number">Login with Name &amp; Mobile Number</string>
+    <string name="agreement_with_masterji">By Continuing, you agree to the terms and privacy policy of Masterji.</string>
+
+    <!--Verfiy OTP-->
+    <string name="verify_otp">Please enter OTP sent to your valid mobile number.</string>
+
+    <!--Verfiy Phone number-->
+    <string name="verify_phone">Please enter your valid mobile number to verify.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--<string name="facebook_app_id">393973557992688</string>-->
+    <string name="facebook_app_id_id">683659622098482</string>
+    <!-- <string name="App Secret">6a63be45b8ab13f49d36a3cec77d2a5d</string>
+   --> <!--<string name="fb_login_protocol_scheme">fb393973557992688</string>-->
+    -->
+    <string name="fb_login_protocol_scheme">fb683659622098482</string>
+
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+
+
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="fcm_message">Masterji</string>
+    <string name="no_data_available">No data Available</string>
+
+    <!--  <string name="facebook_app_id">393973557992688</string>
+
+    <string name="fb_login_protocol_scheme">fb393973557992688</string>-->
+    <string name="male_design">Male \n Design</string>
+    <string name="female_design">Female \n Design</string>
+    <string name="design_catalogue">Design \n Catalogue</string>
+    <string name="book_a_tailor">Book \n A Tailor</string>
+    <string name="book_a_tailorr">Book A Tailor</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="book_your_tailor">Book Your Tailor</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="pricing"> <u>Pricing</u>.</string>
+    <string name="your_string_here">This is an <u>Pricing</u>.</string>
+    <string name="txt_Start_Time">Start Time</string>
+    <string name="add_family">Add   Family</string>
+    <string name="spinner_title">Cancellation Reasons</string>
+    <string name="info_title"></string>
+    <string name="info_message">Please select minimum 5 clothes</string>
+    <string name="info_messagess">As per quantity of clothes time for delivery is increase</string>
+
+
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A new version of Masterji is available. Please update to version\s</string>
+    <string name="youAreNotUpdatedMessage1">\s now</string>
+    <string name="update">Update</string>
+</resources>

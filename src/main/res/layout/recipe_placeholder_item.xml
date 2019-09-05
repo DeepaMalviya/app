@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_padding">
+
+<!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/thumbnail"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical">
+
+
+        <View
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/placeholder_text_height"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="160dp"
+            android:background="@color/placeholder_bg" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <View
+            android:id="@+id/thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_marginRight="@dimen/activity_padding"
+            android:layout_weight="1"
+            android:background="@color/placeholder_bg" />
+
+        <View
+            android:id="@+id/thumbnail1"
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_marginRight="@dimen/activity_padding"
+            android:layout_weight="1"
+            android:background="@color/placeholder_bg" />
+
+        <View
+            android:id="@+id/thumbnail2"
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_marginRight="@dimen/activity_padding"
+            android:layout_weight="1"
+            android:background="@color/placeholder_bg" />
+
+        <View
+            android:id="@+id/thumbnail3"
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_marginRight="@dimen/activity_padding"
+            android:layout_weight="1"
+            android:background="@color/placeholder_bg" />
+
+    </LinearLayout>-->
+</LinearLayout>

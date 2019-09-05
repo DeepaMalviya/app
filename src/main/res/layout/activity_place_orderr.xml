@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parentLayout"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:orientation="vertical">
+                <!--
+
+                                <TextView
+                                    style="@style/lableText"
+                                    android:layout_width="wrap_content"
+                                    android:text="Add Address"
+                                    android:textStyle="bold" />
+                -->
+
+
+                <!--<EditText
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:id="@+id/etAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:drawableStart="@drawable/ic_place_black_24dp"
+                    android:drawableLeft="@drawable/ic_place_black_24dp"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:ems="10"
+                    android:hint="Enter Address,Street,Colony,PinCode"
+                    android:inputType="textMultiLine"
+                    android:text="" />
+
+                <TextView
+                    style="@style/lableText"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:text="Add Tailor Schedule Date"
+                    android:textStyle="bold" />
+
+
+                <EditText
+                    android:id="@+id/etBookingDate"
+                    android:layout_marginTop="@dimen/_5sdp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:drawableStart="@drawable/ic_date_range_black_24dp"
+                    android:drawableLeft="@drawable/ic_date_range_black_24dp"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:ems="10"
+
+                    android:focusable="false"
+                    android:hint="Enter Booking Date"
+                    android:inputType="textMultiLine"
+                    android:text="" />
+
+
+                <TextView
+                    style="@style/lableText"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:gravity="left"
+                    android:text="Add Tailor Schedule Time"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etBookingTime"
+                    android:layout_marginTop="@dimen/_5sdp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:drawableStart="@drawable/ic_access_time_black_24dp"
+                    android:drawableLeft="@drawable/ic_access_time_black_24dp"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:ems="10"
+
+
+                    android:focusable="false"
+                    android:hint="Enter any time between 10am to 6 pm"
+                    android:inputType="textMultiLine"
+                    android:text="" />
+-->
+                <!--00000000000000000-->
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight=".1"
+                        android:text="Add Address  :"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="normal" />
+
+                    <EditText
+                        android:id="@+id/etAddress"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_weight=".9"
+                        android:background="@null"
+                        android:drawableStart="@drawable/ic_place_black_24dp"
+                        android:drawableLeft="@drawable/ic_place_black_24dp"
+                        android:drawablePadding="@dimen/_5sdp"
+                        android:ems="10"
+                        android:hint="Enter Address,Street,Colony,PinCode"
+                        android:inputType="textMultiLine" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_25sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:text="Or"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_16sdp"
+                    android:textStyle="normal" />
+
+                <Button
+                    android:id="@+id/btnCurrentPlace"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:background="@drawable/border_background"
+                    android:drawableStart="@drawable/ic_add_location"
+                    android:drawableLeft="@drawable/ic_add_location"
+                    android:foreground="?selectableItemBackground"
+                    android:padding="@dimen/_5sdp"
+                    android:text="Get Current Location" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight=".2"
+                        android:text="Add Tailor Schedule Date :"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="normal" />
+
+                    <EditText
+                        android:id="@+id/etBookingDate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_weight=".8"
+                        android:background="@null"
+                        android:drawableStart="@drawable/ic_date_range_black_24dp"
+                        android:drawableLeft="@drawable/ic_date_range_black_24dp"
+                        android:drawablePadding="@dimen/_5sdp"
+                        android:editable="false"
+                        android:ems="10"
+                        android:focusable="false"
+                        android:hint="Enter Booking Date"
+                        android:inputType="date" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight=".2"
+                        android:text="Add Tailor Schedule Time :"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="normal" />
+
+                    <EditText
+                        android:id="@+id/etBookingTime"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_weight=".8"
+                        android:background="@null"
+
+                        android:drawableStart="@drawable/ic_access_time_black_24dp"
+                        android:drawableLeft="@drawable/ic_access_time_black_24dp"
+
+
+                        android:drawablePadding="@dimen/_5sdp"
+                        android:editable="false"
+                        android:ems="10"
+
+
+                        android:focusable="false"
+                        android:hint="Enter any time between 10am to 6 pm"
+                        android:inputType="time" />
+
+                </LinearLayout>
+
+
+                <!--   <TextView
+                       style="@style/lableText"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="@dimen/_8sdp"
+                       android:gravity="left"
+                       android:text="Terms  And Conditions"
+                       android:textStyle="bold" />
+
+                   <TextView
+                       style="@style/lableText"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="@dimen/_2sdp"
+                       android:gravity="left"
+                       android:text="* If any garments are not perfectly stitched by us, you can claim within 5 days only."
+                       android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+                   <TextView
+                       style="@style/lableText"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="@dimen/_2sdp"
+                       android:gravity="left"
+                       android:text="* When on pick up and delivery user should give confirmation for his garment at the same time."
+                       android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+                   <TextView
+                       style="@style/lableText"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="@dimen/_2sdp"
+                       android:gravity="left"
+                       android:text="* We can provide 3 pickups and delivery on a single order, after that it will be chargeable on any modifications."
+                       android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+                   <TextView
+                       style="@style/lableText"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="@dimen/_2sdp"
+                       android:gravity="left"
+                       android:text="* We are providing premium services also but it would be chargeable. (In morning 6:00 am  to 9:00 A.M. and 7:00 P.M. to 11:00 P.M. with extra hours)" />-->
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginRight="@dimen/_20sdp">
+
+                    <CheckBox
+                        android:id="@+id/cbTermConditions"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Accept Terms and Conditions"
+                        android:textSize="@dimen/_13sdp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/ivTermConditionInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="?selectableItemBackgroundBorderless"
+                        android:padding="@dimen/_4sdp"
+                        app:srcCompat="@drawable/ic_info" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnPlaceOrder"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_36sdp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:foreground="?selectableItemBackground"
+        android:text="Place Order"
+        android:textAllCaps="true"
+        android:textColor="@color/black" />
+
+</RelativeLayout>
